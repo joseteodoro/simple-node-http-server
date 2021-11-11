@@ -42,4 +42,4 @@ for example
 curl -i -X POST -H "Content-Type: multipart/form-data" -F "file=@image2321231.pdf" http://127.0.0.1:3003/
 ```
 
-When uploading, the file (at ~/Downloads directory in our example) will receive the same name you have locally.
+When uploading, the file (at ~/Downloads directory in our example) will receive the same name it has locally.
