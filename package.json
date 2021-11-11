@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-http-server",
+  "version": "1.0.0",
+  "description": "GET and POST like `python3 -m http.server` but accepting post to push files from k8s, vms and other places with no access to SCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseteodoro/simple-node-http-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseteodoro/simple-node-http-server/issues"
+  },
+  "homepage": "https://github.com/joseteodoro/simple-node-http-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3"
+  }
+}
