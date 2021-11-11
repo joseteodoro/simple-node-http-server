@@ -46,4 +46,4 @@ When uploading, the file (at ~/Downloads directory in our example) will receive 
 
 ## Internet valid urls
 
-If you need to send the files from some place to your local machine, you can use this small server with [ngrok](https://ngrok.com/). It will open a ssl tunnel to a internet valid address and you can send the files to your machine with no other configs at all.
+If you need to send the files from some place to your local machine, you can use this small server with [ngrok](https://ngrok.com/). It will open a ssl tunnel to an internet valid address and you can send the files to your machine with no other configs at all.
